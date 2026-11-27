@@ -1,0 +1,7 @@
+Dataset,Role,Kinetic target(s),Pairs (this study),Primary source / reference
+Training corpus,Training (cluster & random CV),"KM, kcat","48,891 (46,944 KM; 30,068 kcat)","CataPro and OpenEnzymeDB (from BRENDA, SABIO-RK)"
+HXKm,External test,KM,39 (novel),"GraphKM, He & Yan (2024)"
+CatPred40,External test,KM,136 (novel),"CatPred, Boorla & Maranas (2025)"
+IECata,External test,kcat/KM,742,Wang et al. (2025)
+EnzyExtract,External test,KM; kcat; kcat/KM,"20,145; 21,963; 19,991",Wei et al. (2025)
+EnzyArena,External (ranking only),"kcat, KM, kcat/KM",Per-campaign ranking,"Zeng et al. (2026, preprint)"

@@ -1,0 +1,48 @@
+# ============================================================================
+# figure_style.yaml  --  live-editable aesthetics for the whole figure suite
+# ----------------------------------------------------------------------------
+# Figure scripts read fonts / colours / legend placement / save-DPI from here
+# (via plotting_style.py). Delete a key to fall back to the built-in default.
+# ============================================================================
+
+# --- global font sizes, in points -----------------------------------------
+fonts:
+  axis_label:  24     # X / Y axis titles
+  tick_label:  20     # X / Y tick numbers
+  title:       26     # panel titles
+  legend:      20     # legend text + legend title
+  value_label: 20     # on-bar / annotation numbers
+
+# --- global figure scaling --------------------------------------------------
+# Multiplies EVERY figsize=(...) in every script. 1.0 = unchanged.
+# Bump to 1.15 to make everything bigger, 0.9 to shrink, etc.
+figsize_scale: 1.0
+
+# --- side-legend placement (plotting_style.add_side_legend) ----------------
+legend:
+  loc: "upper left"
+  bbox_to_anchor: [1.01, 1.0]   # [x, y] in axes fraction; >1.0 = outside right
+  frameon: true
+
+# --- figure export ----------------------------------------------------------
+savefig:
+  png_dpi: 300
+  pdf_dpi: 300
+  transparent: false
+  bbox_inches: "tight"
+
+# --- model colours (hex). Keys must match the model labels in the plots. ----
+colors:
+  "MineCat (deep)":     "#E63946"
+  "MineCat (ensemble)": "#7A1128"
+  "MineCat (tree)":     "#B5651D"
+  MPEK:                 "#8E44AD"
+  EF-UniKP:             "#2A9D8F"
+  PreTKcat:             "#F4A261"
+  DLTKcat:              "#264653"
+  CataPro:              "#457B9D"
+  KinForm:              "#1D3557"
+  KmPred:               "#E9C46A"
+  UniKP:                "#A8DADC"
+  MMKcat:               "#6D6875"
+  CatPred:              "#9B2226"

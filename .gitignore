@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+
+# large artifacts: distributed separately (see weights/README.md, data/README.md)
+/features/
+/structures/
+/external/
+/weights/deep/
+/weights/tree/
+/weights/composition/
+/results/deep/
+/results/tree/
+/results/composition/
+/results/ensemble/
+*.joblib
+*.pt
+!weights/smiles_transformer/smiles_transformer.pt
+/build/
+/dist/

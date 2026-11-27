@@ -1,0 +1,21 @@
+Model,Modality,ΔR² (KM),ΔR² (kcat)
+Ensemble,Substrate,0.305,0.057
+Ensemble,Protein,0.025,0.048
+Ensemble,EC number,0.072,0.178
+Ensemble,Environment,0.009,0.013
+Ensemble,Structure,0.000,0.000
+Tree,Substrate,0.421,0.092
+Tree,Protein,0.023,0.046
+Tree,EC number,0.105,0.312
+Tree,Environment,0.011,0.014
+Tree,Structure,0.000,0.000
+Deep,Substrate,0.135,0.022
+Deep,Protein,0.025,0.058
+Deep,EC number,0.021,0.046
+Deep,Environment,0.002,0.008
+Deep,Structure,0.003,0.007
+Composition,Substrate,0.516,0.154
+Composition,Protein,0.076,0.117
+Composition,EC number,-,-
+Composition,Environment,-,-
+Composition,Structure,-,-

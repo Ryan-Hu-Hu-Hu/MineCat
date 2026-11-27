@@ -1,0 +1,15 @@
+Model,Carbonic anhydrase,Carbonic anhydrase,Carbonic anhydrase,ALAS kinetic benchmark,ALAS kinetic benchmark,ALAS kinetic benchmark
+Model,KM,kcat,kcat/KM,KM,kcat,kcat/KM
+MineCat (deep),0.464,0.000,-0.364,0.367,0.093,0.597
+MineCat (tree),0.664,0.318,0.291,0.630,0.066,0.795
+MineCat (composition),0.400,0.818,0.846,0.507,-0.386,0.486
+MineCat (ensemble 2-way),0.691,0.455,0.136,0.541,0.215,0.783
+"MineCat (3-way, deployed)",0.382,0.791,0.809,0.419,0.010,0.690
+EF-UniKP,0.691,0.464,0.309,0.638,-0.021,0.704
+PreTKcat,0.700,0.455,0.455,0.556,0.202,0.654
+MPEK,0.536,0.391,0.064,0.347,-0.030,0.611
+KinForm,0.691,0.564,0.455,0.585,0.194,0.543
+CataPro,0.682,0.482,0.300,0.466,-0.090,0.517
+KmPred,0.582,0.818,0.836,0.498,0.053,0.465
+CatPred,0.691,0.700,0.327,0.353,-0.206,0.525
+UniKP,0.700,0.409,0.345,0.578,0.091,0.681

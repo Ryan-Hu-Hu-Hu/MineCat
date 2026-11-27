@@ -1,0 +1,7 @@
+EC class,KM R²,KM SCC,kcat R²,kcat SCC
+1 Oxidoreductases,0.384,0.611,0.161,0.438
+2 Transferases,0.389,0.622,0.239,0.506
+3 Hydrolases,0.365,0.628,0.138,0.418
+4 Lyases,0.451,0.628,0.210,0.336
+5 Isomerases,0.468,0.667,0.161,0.426
+6 Ligases,0.207,0.482,-0.112,0.224

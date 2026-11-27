@@ -1,0 +1,144 @@
+model,variant,km_pred_log10,kcat_pred_log10,specific_activity_WAU_per_mL
+MineCat (deep),hCAII,-2.1451,3.8192,28474
+MineCat (deep),SyCA,-2.1831,3.8822,6000
+MineCat (deep),MlCA,-2.1048,3.8636,1484
+MineCat (deep),dCA12_2,-2.1909,3.9031,400
+MineCat (deep),dCA23_1,-2.2334,3.7606,260
+MineCat (deep),hCAd3,-2.316,3.7865,20
+MineCat (deep),hCAd4,-2.4535,3.9804,63
+MineCat (deep),ccmN,-2.2652,3.2358,557
+MineCat (deep),ccmM,-2.551,3.4581,1181
+MineCat (deep),ccaA,-2.6547,4.3297,846
+MineCat (deep),dM22,-2.2033,3.6793,445
+CataPro,hCAII,-2.2259,3.938,28474
+CataPro,SyCA,-2.617,5.2458,6000
+CataPro,MlCA,-2.0497,4.9275,1484
+CataPro,dCA12_2,-2.7622,2.5142,400
+CataPro,dCA23_1,-2.8786,4.2585,260
+CataPro,hCAd3,-3.0602,3.2885,20
+CataPro,hCAd4,-3.4421,2.1138,63
+CataPro,ccmN,-2.7647,3.2391,557
+CataPro,ccmM,-3.5064,2.3759,1181
+CataPro,ccaA,-2.7201,4.2559,846
+CataPro,dM22,-2.816,3.6349,445
+KmPred,hCAII,-2.6065,4.1102,28474
+KmPred,SyCA,-2.923,3.15,6000
+KmPred,MlCA,-2.2594,3.7269,1484
+KmPred,dCA12_2,-2.7969,1.3848,400
+KmPred,dCA23_1,-3.2677,2.1631,260
+KmPred,hCAd3,-3.0249,1.5148,20
+KmPred,hCAd4,-3.2749,0.8663,63
+KmPred,ccmN,-2.9132,2.1466,557
+KmPred,ccmM,-3.0463,2.4928,1181
+KmPred,ccaA,-3.0627,2.152,846
+KmPred,dM22,-3.0716,1.2807,445
+UniKP,hCAII,-2.6981,3.1759,28474
+UniKP,SyCA,-2.7022,2.8208,6000
+UniKP,MlCA,-2.6181,2.718,1484
+UniKP,dCA12_2,-2.8148,1.5582,400
+UniKP,dCA23_1,-2.7973,2.0417,260
+UniKP,hCAd3,-3.0158,1.6902,20
+UniKP,hCAd4,-3.0666,1.4771,63
+UniKP,ccmN,-2.8133,1.1779,557
+UniKP,ccmM,-3.0169,1.0282,1181
+UniKP,ccaA,-2.7484,1.6828,846
+UniKP,dM22,-2.9026,1.5236,445
+EF-UniKP,hCAII,-2.7286,4.11,28474
+EF-UniKP,SyCA,-2.7016,3.6534,6000
+EF-UniKP,MlCA,-2.6037,3.5505,1484
+EF-UniKP,dCA12_2,-2.8382,2.1638,400
+EF-UniKP,dCA23_1,-2.8141,2.6031,260
+EF-UniKP,hCAd3,-2.9798,2.08,20
+EF-UniKP,hCAd4,-3.0208,1.9277,63
+EF-UniKP,ccmN,-2.8204,1.5753,557
+EF-UniKP,ccmM,-3.0041,1.349,1181
+EF-UniKP,ccaA,-2.7632,2.1819,846
+EF-UniKP,dM22,-2.8687,1.9125,445
+MineCat (ensemble 2-way),hCAII,-2.0494,5.0478,28474
+MineCat (ensemble 2-way),SyCA,-2.0299,5.083,6000
+MineCat (ensemble 2-way),MlCA,-1.8649,5.0218,1484
+MineCat (ensemble 2-way),dCA12_2,-2.1756,4.5837,400
+MineCat (ensemble 2-way),dCA23_1,-2.1501,4.6823,260
+MineCat (ensemble 2-way),hCAd3,-2.3116,4.5865,20
+MineCat (ensemble 2-way),hCAd4,-2.4041,4.5364,63
+MineCat (ensemble 2-way),ccmN,-1.9669,4.208,557
+MineCat (ensemble 2-way),ccmM,-2.305,4.1484,1181
+MineCat (ensemble 2-way),ccaA,-2.0672,4.6113,846
+MineCat (ensemble 2-way),dM22,-2.2196,4.5447,445
+MineCat (tree),hCAII,-2.0157,5.5744,28474
+MineCat (tree),SyCA,-1.976,5.5976,6000
+MineCat (tree),MlCA,-1.7806,5.5181,1484
+MineCat (tree),dCA12_2,-2.1703,4.8754,400
+MineCat (tree),dCA23_1,-2.1208,5.0774,260
+MineCat (tree),hCAd3,-2.3101,4.9293,20
+MineCat (tree),hCAd4,-2.3867,4.7747,63
+MineCat (tree),ccmN,-1.8621,4.6246,557
+MineCat (tree),ccmM,-2.2186,4.4442,1181
+MineCat (tree),ccaA,-1.8607,4.732,846
+MineCat (tree),dM22,-2.2253,4.9155,445
+MineCat (composition),hCAII,-2.6652,4.194,28474
+MineCat (composition),SyCA,-2.8342,4.0898,6000
+MineCat (composition),MlCA,-2.26,4.5341,1484
+MineCat (composition),dCA12_2,-2.7735,1.8932,400
+MineCat (composition),dCA23_1,-3.0189,2.8103,260
+MineCat (composition),hCAd3,-2.7844,2.1812,20
+MineCat (composition),hCAd4,-2.9496,2.1043,63
+MineCat (composition),ccmN,-3.0329,2.9999,557
+MineCat (composition),ccmM,-2.926,3.6087,1181
+MineCat (composition),ccaA,-2.8354,3.1618,846
+MineCat (composition),dM22,-2.8358,1.8478,445
+"MineCat (3-way, deployed)",hCAII,-2.4832,4.0441,28474
+"MineCat (3-way, deployed)",SyCA,-2.6063,4.0068,6000
+"MineCat (3-way, deployed)",MlCA,-2.2057,4.2659,1484
+"MineCat (3-way, deployed)",dCA12_2,-2.5696,2.6972,400
+"MineCat (3-way, deployed)",dCA23_1,-2.744,3.1904,260
+"MineCat (3-way, deployed)",hCAd3,-2.6205,2.8233,20
+"MineCat (3-way, deployed)",hCAd4,-2.776,2.8547,63
+"MineCat (3-way, deployed)",ccmN,-2.7642,3.0943,557
+"MineCat (3-way, deployed)",ccmM,-2.7947,3.5484,1181
+"MineCat (3-way, deployed)",ccaA,-2.7722,3.629,846
+"MineCat (3-way, deployed)",dM22,-2.6144,2.5804,445
+KinForm,hCAII,-2.7724,4.1664,28474
+KinForm,SyCA,-2.762,3.3063,6000
+KinForm,MlCA,-2.6579,2.6757,1484
+KinForm,dCA12_2,-2.8672,1.3827,400
+KinForm,dCA23_1,-2.8868,1.7017,260
+KinForm,hCAd3,-3.1282,1.028,20
+KinForm,hCAd4,-3.0837,1.0737,63
+KinForm,ccmN,-2.9312,1.1314,557
+KinForm,ccmM,-3.0462,0.7491,1181
+KinForm,ccaA,-2.7565,1.4749,846
+KinForm,dM22,-2.9423,0.9327,445
+PreTKcat,hCAII,-2.1041,5.0446,28474
+PreTKcat,SyCA,-2.4386,4.4033,6000
+PreTKcat,MlCA,-2.1107,4.4262,1484
+PreTKcat,dCA12_2,-2.6727,2.26,400
+PreTKcat,dCA23_1,-2.6489,3.1515,260
+PreTKcat,hCAd3,-2.9716,2.0951,20
+PreTKcat,hCAd4,-3.1123,2.0589,63
+PreTKcat,ccmN,-2.5297,1.7964,557
+PreTKcat,ccmM,-3.0551,1.4178,1181
+PreTKcat,ccaA,-2.6587,2.7706,846
+PreTKcat,dM22,-2.8952,2.0564,445
+MPEK,hCAII,-2.0404,4.1317,28474
+MPEK,SyCA,-1.923,4.913,6000
+MPEK,MlCA,-1.9208,4.4496,1484
+MPEK,dCA12_2,-1.9473,4.2789,400
+MPEK,dCA23_1,-2.1904,4.5717,260
+MPEK,hCAd3,-2.6165,3.71,20
+MPEK,hCAd4,-3.0178,3.3694,63
+MPEK,ccmN,-2.6802,3.6693,557
+MPEK,ccmM,-2.9062,3.7452,1181
+MPEK,ccaA,-2.1717,4.3413,846
+MPEK,dM22,-2.2277,4.1588,445
+CatPred,hCAII,-2.5755,3.1169,28474
+CatPred,SyCA,-2.8081,3.971,6000
+CatPred,MlCA,-2.654,3.7785,1484
+CatPred,dCA12_2,-3.081,2.3472,400
+CatPred,dCA23_1,-3.1384,2.6705,260
+CatPred,hCAd3,-3.9193,1.6347,20
+CatPred,hCAd4,-3.6396,2.2253,63
+CatPred,ccmN,-3.252,2.835,557
+CatPred,ccmM,-3.3099,2.016,1181
+CatPred,ccaA,-3.4148,2.4639,846
+CatPred,dM22,-3.2032,2.2416,445

@@ -1,0 +1,19 @@
+{
+  "label_range": {
+    "km": [
+      -12.301030158996582,
+      1.5740312337875366
+    ],
+    "kcat": [
+      -7.477555751800537,
+      7.84509801864624
+    ]
+  },
+  "units": {
+    "km": "log10 M",
+    "kcat": "log10 s^-1"
+  },
+  "ph_median": 7.5,
+  "temp_median": 30.0,
+  "note": "Label min/max over the training dataset (used to map model outputs from [-1, 1] back to log10 units); pH / temperature medians fill missing assay conditions."
+}

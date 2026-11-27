@@ -1,0 +1,9 @@
+E. coli strain,Description,Remark
+BL21(DE3) (BD in short),F– ompT gal dcm lon hsdSB(rB–mB–) λ(DE3 [lacI lacUV5-T7p07 ind1 sam7 nin5]) [malB+]K-12(λS),Lab stock
+Plasmids,,
+pET28a-RcALAS,"pBR322 ori, KmR, T7 promoter, lacI, lacO, expressing aminolevulinic acid synthase (ALAS) from Rhodobacter capsulatus",Lab stock
+pET28a-RcALAS_D387Y,"colE1 ori, KmR, T7 promoter, lacI, lacO, expressing RcALAS D387Y variant",This study
+pET28a-RcALAS_R399W,"colE1 ori, KmR, T7 promoter, lacI, lacO, expressing RcALAS R399W variant",This study
+pET28a-RcALAS_R399W_Q385E,"colE1 ori, KmR, T7 promoter, lacI, lacO, expressing RcALAS R399W_Q385E variant",This study
+pET28a-RcALAS_R399W_M393T,"colE1 ori, KmR, T7 promoter, lacI, lacO, expressing RcALAS R399W_M393T variant",This study
+pET28a-RcALAS_R399W_S408A,"colE1 ori, KmR, T7 promoter, lacI, lacO, expressing RcALAS R399W_S408A variant",This study
